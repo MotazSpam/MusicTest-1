@@ -8,7 +8,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const YouTube = require('simple-youtube-api');
 
-const youtube = new YouTube("AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8");
+const youtube = new YouTube("AIzaSyAd_IlAcFQo2OLs9IBAtV2XzrFQdK1M9O4");
 
 const queue = new Map();
 
